@@ -1,0 +1,2 @@
+{red}Mot hai ba bon hai ba mot{reset}
+{blue}aaaa
