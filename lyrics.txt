@@ -9,9 +9,9 @@
 {f-0.3}{d-2}Yêu{f-0.1}{d-0.02}anh{f-0.1}{d-0.2}quá{reset}
 {f-0.2}{d-0.7}Nên{f-0.03}{d-0.01}em{f-0.2}{d-0.21}đành{green}{f-1}{d-0.4}nuông chiều{reset}
 
-{f-0.5}{d-2}Cố{purple}{f-0.4}{d-0.05}giả vờ{reset}{f-0.5}{d-0.5}và{f-0.2}{d-0.1}mong{f-0.2}{d-0.13}anh{orange}{f-0.5}{d-0.4}hiểu thấu{reset}
+{f-0.5}{d-2}Cố{purple}{f-0.4}{d-0.05}giả vờ{reset}{f-0.4}{d-0.5}và{f-0.2}{d-0.02}mong{f-0.2}{d-0.13}anh{orange}{f-0.5}{d-0.4}hiểu thấu{reset}
 
-{f-0.3}{d-2.3}Chắc{f-0.1}{d-0.1}có{f-0.5}{d-0.2}lẽ{f-0.2}{d-0.4}em{f-0.2}{d-0.1}đã{f-0.5}{d-0.1}{gold}sai lầm{reset}
+{f-0.3}{d-2.3}Chắc{f-0.1}{d-0.1}có{f-0.5}{d-0.2}lẽ{f-0.2}{d-0.4}em{f-0.2}{d-0.1}đã{f-0.5}{d-0.3}{gold}sai lầm{reset}
 
 {red}{f-1}{d-3}Thương một người ❤️{reset}
 {f-0.3}{d-0.48}Dù{f-0.2}{d-0.05}người{f-0.2}{d-0.19}ta{lime}{f-0.6}{d-0.4}đâu có thương{reset}
