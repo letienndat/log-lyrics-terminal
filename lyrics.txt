@@ -1,2 +1,23 @@
-{red}Mot hai ba bon hai ba mot{reset}
-{blue}aaaa
+{red}{f-0.5}👉 HOA TÀN TÌNH TAN 👈{reset}
+
+{f-0.1}{d-0.5}Hoa{f-0.05}{d-0.1}trên{f-0.2}{d-0.25}giấy{reset}
+{f-0.3}{d-0.5}Không{f-0.1}{d-0.05}sương{f-0.1}{d-0.18}hoa{f-0.1}{d-0.17}vẫn{f-0.3}{d-0.5}nở{reset}
+
+{blue}{f-0.5}{d-2}Thương ai rồi ❤️{reset}
+{f-0.2}{d-1}Dù{red}{f-0.1}{d-0.05}trắc trở{reset}{f-0.2}{d-1.2}vẫn{f-0.5}{d-0.2}thương{reset}
+
+{f-0.3}{d-2}Yêu{f-0.1}{d-0.02}anh{f-0.1}{d-0.2}quá{reset}
+{f-0.2}{d-0.7}Nên{f-0.03}{d-0.01}em{f-0.2}{d-0.21}đành{green}{f-1}{d-0.4}nuông chiều{reset}
+
+{f-0.5}{d-2}Cố{purple}{f-0.4}{d-0.05}giả vờ{reset}{f-0.5}{d-0.5}và{f-0.2}{d-0.1}mong{f-0.2}{d-0.13}anh{orange}{f-0.5}{d-0.4}hiểu thấu{reset}
+
+{f-0.3}{d-2.3}Chắc{f-0.1}{d-0.1}có{f-0.5}{d-0.2}lẽ{f-0.2}{d-0.4}em{f-0.2}{d-0.1}đã{f-0.5}{d-0.1}{gold}sai lầm{reset}
+
+{red}{f-1}{d-3}Thương một người ❤️{reset}
+{f-0.3}{d-0.48}Dù{f-0.2}{d-0.05}người{f-0.2}{d-0.19}ta{lime}{f-0.6}{d-0.4}đâu có thương{reset}
+
+{yellow}{f-1}{d-2.18}Hoa không tàn{reset}
+{f-0.6}{d-0.8}Là{f-0.2}{d-0.02}hoa{f-0.2}{d-0.15}in{f-0.2}{d-0.12}trên{f-0.5}{d-0.2}giấy{reset}
+
+{green}{f-1}{d-1.5}Tình không tan{reset}
+{f-0.6}{d-0.51}Là{f-0.2}{d-0.05}tình{f-0.2}{d-0.19}thấy{f-0.5}{d-0.18}trong{f-0.5}{d-0.18}mơ.{reset}
